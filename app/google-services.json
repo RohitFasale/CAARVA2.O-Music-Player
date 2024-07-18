@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160938257191",
+    "project_id": "caarva-music-player-2-o",
+    "storage_bucket": "caarva-music-player-2-o.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160938257191:android:d53eeb8483124a25949702",
+        "android_client_info": {
+          "package_name": "com.example.caarvamusicplayer2o"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASaGrL3svVljZCoQqgdQPDo9AHpnAsKsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
